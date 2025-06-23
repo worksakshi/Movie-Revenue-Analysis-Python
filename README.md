@@ -37,6 +37,7 @@ import matplotlib.pyplot as plt
 ### B) Exploratory Data Analysis (EDA)
 #### 1. Distribution of Budget
 Highly right-skewed; most movies operate with smaller budgets.
+
 Visualized using KDE plot.
 
 #### 2. Correlation Analysis
