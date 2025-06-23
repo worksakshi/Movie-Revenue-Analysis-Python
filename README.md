@@ -51,8 +51,9 @@ Strong positive correlation between:
 Heatmaps created for both numerical and encoded features.
 ![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Correlation%20Between%20Numerical%20Features.jpg)
 
-To just not limit to numerical relationship, I have explored categorical relationship too.
-![Insight_1](Correlation Between (Numerical & Categorical) Features.jpg)
+To just not limit to numerical relationship and make conclusion, I have explored categorical relationship too.
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Correlation%20Between%20(Numerical%20%26%20Categorical)%20Features.jpg)
+
 
 
 #### 3. Regression Analysis
