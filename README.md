@@ -91,7 +91,7 @@ While budget and votes are the two most important factors influencing gross reve
 
 ## 2️⃣  Do Ratings Affect Movie Revenue?
 
-![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Ratings%20vs%20Gross%20Revenue.png)
 
 #### Insight:
 Movies with a PG-13 rating tend to generate the highest median revenue, followed by PG, G, and R.
