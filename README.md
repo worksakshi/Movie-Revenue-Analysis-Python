@@ -68,7 +68,14 @@ Outliers identified using boxplot.
 
 ![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
 
+Insight:
 
+As votes increase, gross revenue rises more sharply.
+
+As budget increases, revenue also rises but more gradually.
+
+Conclusion:
+While budget and votes are the two most important factors influencing gross revenue, this pattern does not apply to all movies because the data is skewed. Just spending more or getting more votes doesn’t guarantee success for every film.
 
 
 
