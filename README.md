@@ -60,6 +60,9 @@ Right-skewed: most movies earn less, a few earn extremely high.
 
 Outliers identified using boxplot.
 
+### C)  Exploratory Data Analysis (EDA)
+
+## 1️⃣ Does Budget and Votes Affect Gross Revenue?
 
 
 
