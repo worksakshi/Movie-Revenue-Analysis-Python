@@ -41,6 +41,8 @@ Highly right-skewed; most movies operate with smaller budgets.
 
 Visualized using KDE plot.
 
+
+
 #### 2. Correlation Analysis
 Strong positive correlation between:
 . votes and gross (0.63)
