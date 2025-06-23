@@ -59,21 +59,6 @@ Right-skewed: most movies earn less, a few earn extremely high.
 
 Outliers identified using boxplot.
 
-#### 5. Ratings and Revenue
-PG-13 and PG rated movies generate the highest median revenue.
-
-Broader audience appeal = higher returns.
-
-#### 6. Budget Trend Over Time
-Median budgets remained fairly constant from 1980–2020.
-
-Spikes observed between 1997 and 2013.
-
-#### 7. Top Performing Directors and Genres
-Directors and genres ranked by median gross revenue.
-
-Barplots highlight top 10 in each category.
-
 
 
 
