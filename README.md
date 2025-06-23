@@ -68,14 +68,25 @@ Outliers identified using boxplot.
 
 ![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
 
-##### Insight:
+#### Insight:
 
 As votes increase, gross revenue rises more sharply.
 
 As budget increases, revenue also rises but more gradually.
 
-##### Conclusion:
+#### Conclusion:
 While budget and votes are the two most important factors influencing gross revenue, this pattern does not apply to all movies because the data is skewed. Just spending more or getting more votes doesn’t guarantee success for every film.
+
+
+## 2️⃣  Do Ratings Affect Movie Revenue?
+
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+
+#### Insight:
+Movies with a PG-13 rating tend to generate the highest median revenue, followed by PG, G, and R.
+
+#### Conclusion:
+Ratings do have an impact. Films with broader audience appeal generally perform better financially than those with restrictive ratings.
 
 
 
