@@ -102,7 +102,11 @@ Budgets have not grown linearly. The film industry has fluctuating investment tr
 
 ## 4️⃣ Which Genres or Directors Generate Higher Revenue?
 
-![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+(https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Directors.png
+)
+
+(https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Genre.png
+)
 
 #### Insight:
 Specific directors and genres like Adventure, Action, and high-profile names show higher median gross revenues.
