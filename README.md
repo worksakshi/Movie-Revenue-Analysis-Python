@@ -9,7 +9,7 @@ This project analyzes a dataset of movies to uncover insights into what factors 
 
 ## Objectives
 
-1.How votes and budget impact revenue.
+1. How votes and budget impact revenue.
 
 2. Whether movie ratings influence earnings.
    
