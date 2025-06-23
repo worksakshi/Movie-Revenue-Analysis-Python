@@ -73,7 +73,7 @@ Outliers identified using boxplot.
 https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Distribution%20of%20Gross%20Revenue-%20Outlier%20Identification.png)
 
 
-### C)  Exploratory Data Analysis (EDA)
+### C)  Business Problems Solved
 
 ## 1️⃣ Does Budget and Votes Affect Gross Revenue?
 
@@ -102,7 +102,7 @@ Ratings do have an impact. Films with broader audience appeal generally perform 
 
 ## 3️⃣ Has Movie Budget Increased Over Time?
 
-![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Movies%20Budget%20Over%20Time.png)
 
 #### Insight:
 From 1980 to 2020, there wasn't a consistent rise in movie budgets. However, noticeable spikes were observed between 1997 and 2013.
