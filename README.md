@@ -5,16 +5,40 @@
 **Project Title**: Movies Revenue Analysis  
 **Datasource** : movies.csv
 
-Performed SQL-based analysis on a retail grocery dataset involving product details, outlet information, and sales transactions. Implemented filtering, aggregation, window functions, and conditional logic to extract business insights like top-selling products, outlet performance, and sales categorization.
+This project analyzes a dataset of movies to uncover insights into what factors influence a movie’s gross revenue. We explore relationships between budget, votes, ratings, genre, and time to identify trends and drivers of box office performance.
 
 ## Objectives
 
-1. **Set up a retail sales database**: Create and populate a blinkit sales database with the provided sales data.
-2. **Data Cleaning**: Identify and remove any records with missing or null values.
-3. **Exploratory Data Analysis (EDA)**: Perform basic exploratory data analysis to understand the dataset.
-4. **Business Analysis**: Use SQL to answer specific business questions and derive insights from the sales data.
+1. Clean and preprocess the movie dataset
+2. Analyze correlations between numerical and categorical features
+3. Identify key drivers of high gross revenue
+4. Detect outliers and skewness in budget and revenue
+5. Explore trends over time (e.g., budget growth)
+6. 6. Visualize top-performing directors and genres
 
-## Project Structure
+## Libraries Used
+```python
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 1. Database Setup
 
