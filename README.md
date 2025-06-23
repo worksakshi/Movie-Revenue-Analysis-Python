@@ -10,8 +10,11 @@ This project analyzes a dataset of movies to uncover insights into what factors 
 ## Objectives
 
 1.How votes and budget impact revenue.
+
 2. Whether movie ratings influence earnings.
+   
 3. Trends in movie budget over time.
+   
 4. Which genres and directors generate the most revenue?
 
 ## Libraries Used
