@@ -89,6 +89,27 @@ Movies with a PG-13 rating tend to generate the highest median revenue, followed
 Ratings do have an impact. Films with broader audience appeal generally perform better financially than those with restrictive ratings.
 
 
+## 3️⃣ Has Movie Budget Increased Over Time?
+
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+
+#### Insight:
+From 1980 to 2020, there wasn't a consistent rise in movie budgets. However, noticeable spikes were observed between 1997 and 2013.
+
+#### Conclusion:
+Budgets have not grown linearly. The film industry has fluctuating investment trends depending on market cycles.
+
+
+## 4️⃣ Which Genres or Directors Generate Higher Revenue?
+
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/budget_votes_vs_gross_comparison.png)
+
+#### Insight:
+Specific directors and genres like Adventure, Action, and high-profile names show higher median gross revenues.
+
+#### Conclusion:
+Some creative teams consistently outperform in terms of revenue generation.
+
 
 
 
