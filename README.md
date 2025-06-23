@@ -56,15 +56,7 @@ To just not limit to numerical relationship and make conclusion, I have explored
 ![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Correlation%20Between%20(Numerical%20%26%20Categorical)%20Features.jpg)
 
 
-
-#### 3. Regression Analysis
-Plots show positive trends between:
-
-Budget and Gross Revenue (weaker slope)
-
-Votes and Gross Revenue (sharper slope)
-
-#### 4. Gross Revenue Distribution
+#### 3. Gross Revenue Distribution
 Right-skewed: most movies earn less, a few earn extremely high.
 ![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Gross%20Revenue%20Distribution.png)
 
