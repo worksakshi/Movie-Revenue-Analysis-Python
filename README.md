@@ -1,9 +1,9 @@
-# Blinkit Data Analysis SQL Project
+# Movies Revenue Analysis Python
 
 ## Project Overview
 
-**Project Title**: Blinkit Data Sales Analysis  
-**Database**: `dbblinkit`
+**Project Title**: Movies Revenue Analysis  
+**Datasource** : movies.csv
 
 Performed SQL-based analysis on a retail grocery dataset involving product details, outlet information, and sales transactions. Implemented filtering, aggregation, window functions, and conditional logic to extract business insights like top-selling products, outlet performance, and sales categorization.
 
