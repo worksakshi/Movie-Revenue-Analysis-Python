@@ -49,6 +49,12 @@ Strong positive correlation between:
 . budget and gross (0.74)
 
 Heatmaps created for both numerical and encoded features.
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Correlation%20Between%20Numerical%20Features.jpg)
+
+To just not limit to numerical relationship, I have explored categorical relationship too.
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Gross%20Revenue%20Distribution.pnghttps://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Correlation%20Between%20(Numerical%20%26%20Categorical)%20Features.jpg
+)
+
 
 #### 3. Regression Analysis
 Plots show positive trends between:
@@ -102,10 +108,10 @@ Budgets have not grown linearly. The film industry has fluctuating investment tr
 
 ## 4️⃣ Which Genres or Directors Generate Higher Revenue?
 
-(https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Directors.png
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Directors.png
 )
 
-(https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Genre.png
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Top%2010%20High%20Performing%20Genre.png
 )
 
 #### Insight:
