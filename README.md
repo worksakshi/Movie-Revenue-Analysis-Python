@@ -65,8 +65,12 @@ Votes and Gross Revenue (sharper slope)
 
 #### 4. Gross Revenue Distribution
 Right-skewed: most movies earn less, a few earn extremely high.
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Gross%20Revenue%20Distribution.png)
 
 Outliers identified using boxplot.
+![Insight_1](
+https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Distribution%20of%20Gross%20Revenue-%20Outlier%20Identification.png)
+
 
 ### C)  Exploratory Data Analysis (EDA)
 
