@@ -41,7 +41,8 @@ Highly right-skewed; most movies operate with smaller budgets.
 
 Visualized using KDE plot.
 
-
+![Insight_1](https://github.com/worksakshi/Movie-Revenue-Analysis-Python/blob/main/Budget%20Distribution.jpg
+)
 
 #### 2. Correlation Analysis
 Strong positive correlation between:
